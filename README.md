@@ -1,6 +1,6 @@
 # dicee
 
-A new Flutter project.
+Shake the phone to generate numbers.
 
 ## Getting Started
 
